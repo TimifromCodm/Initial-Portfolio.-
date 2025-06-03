@@ -1,0 +1,25 @@
+    .frieren {
+        height: 80%;
+        width: 80%;
+    }
+    body{
+        background-color: #eaf6f6;
+    }
+    hr{
+        border-style: none;
+        border-top-style: dotted;
+        border-width: 5px;
+        width: 5%;
+        border-color: gray;
+    }
+
+    h1{
+        color: #66bfbf;
+    }
+
+    h3{
+        color: #66bfbf;
+    }
+    h1:hover{
+        color: black;
+    }
